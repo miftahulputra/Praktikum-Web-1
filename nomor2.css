@@ -1,0 +1,28 @@
+#nomordua {
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+  
+  }
+
+  .tabel .isian {
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    border: 1px solid #000000;
+    background-color: gold;
+}
+ 
+.table, td {
+    border: 1px solid #000000;
+    padding: 5px;
+    background-color: gold;
+}
+
+#table{
+  position: relative;
+  top: -45px;
+}
